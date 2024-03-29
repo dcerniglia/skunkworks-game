@@ -1,0 +1,41 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+  }
+  
+  #game-container {
+	margin-top: 50px;
+  }
+  
+  #buttons-container {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+  }
+  
+  .active {
+	opacity: 25%;
+  }
+  .button {
+	width: 100px;
+	height: 100px;
+	margin: 0 10px;
+	cursor: pointer;
+  }
+  
+  #red {
+	background-color: red;
+  }
+  
+  #blue {
+	background-color: blue;
+  }
+  
+  #green {
+	background-color: green;
+  }
+  
+  #yellow {
+	background-color: yellow;
+  }
+  
